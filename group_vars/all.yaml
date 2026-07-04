@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.lohithadev.online
+REDIS_HOST: redis.lohithadev.online
+MYSQL_HOST: mysql.lohithadev.online 
+RABBITMQ_HOST: rabbitmq.lohithadev.online 
+CATALOGUE_HOST: catalogue.lohithadev.online
+USER_HOST: user.lohithadev.online
+CART_HOST: cart.lohithadev.online
+SHIPPING_HOST: shipping.lohithadev.online
+PAYMENT_HOST: payment.lohithadev.online
